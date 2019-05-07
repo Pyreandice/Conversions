@@ -1,0 +1,10 @@
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\bin\Debug\Conversions-Homework-9-GraysonBeam.exe.config
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\bin\Debug\Conversions-Homework-9-GraysonBeam.exe
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\bin\Debug\Conversions-Homework-9-GraysonBeam.pdb
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions-Homework-9-GraysonBeam.csprojAssemblyReference.cache
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions_Homework_9_GraysonBeam.Properties.Resources.resources
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions-Homework-9-GraysonBeam.csproj.GenerateResource.cache
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions-Homework-9-GraysonBeam.csproj.CoreCompileInputs.cache
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions-Homework-9-GraysonBeam.exe
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions-Homework-9-GraysonBeam.pdb
+C:\Users\Grayson\source\repos\Conversions-Homework-9-GraysonBeam\Conversions-Homework-9-GraysonBeam\obj\Debug\Conversions_Homework_9_GraysonBeam.MainForm.resources
